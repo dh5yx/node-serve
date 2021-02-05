@@ -1,0 +1,1 @@
+(window["webpackJsonp_demo"]=window["webpackJsonp_demo"]||[]).push([["vendors~properties-panel-extension"],[]]);

@@ -1,0 +1,2 @@
+(window["webpackJsonp_app2"]=window["webpackJsonp_app2"]||[]).push([["about2"],{"613f":function(e,n,t){"use strict";t.r(n);var a=function(){var e=this,n=e.$createElement,t=e._self._c||n;return t("div",[e._v(" 子应用二关于 ")])},p=[],u={},c=u,o=t("5d22"),r=Object(o["a"])(c,a,p,!1,null,"85ae40fe",null);n["default"]=r.exports}}]);
+//# sourceMappingURL=about2.fe08ce73.js.map
